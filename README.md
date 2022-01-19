@@ -1,4 +1,6 @@
-# I2S MP3 webradio streaming example
+# https://www.youtube.com/watch?v=3euFJSkDcFI
+
+## I2S MP3 webradio streaming example
 
 This is an example of how to use the I2S module inside the ESP8266 to output
 sound. In this case, it is used to output decoded MP3 data (actually, more 
